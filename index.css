@@ -1,0 +1,104 @@
+body{
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+  }
+  
+  .container{
+  
+    width: max-content;
+    margin: auto;
+    margin-top: 35px
+    
+  
+  }
+  
+  .heading{
+  
+    width: max-content;
+    margin: auto;
+  
+  }
+  
+  .description{
+  
+    width: max-content;
+    margin: auto;
+    font-size: large;
+    margin-top: 10px;
+  
+  }
+  
+  label{
+  
+    font-weight: 600;
+    margin: 0.7rem auto 1rem auto;
+  
+  
+  }
+  
+  input{
+  
+    margin: 0.5rem auto 1rem auto;
+    padding: 0.5rem;
+    max-width: 10rem;
+    text-align: center;
+    border-radius: 0.4rem;
+  
+  }
+  
+  #check-button{
+  
+    margin: 0.5rem auto 1rem;
+    padding: 0.4rem 1rem;
+    cursor:pointer;
+    border: 1px solid black;
+    border-radius: 15px;
+  
+  }
+  
+  .change-table{
+  
+    font-size: 1rem;
+    margin: 0 auto;
+    width:max-content;
+  
+  }
+  
+  .heading-table {
+  
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: larger;
+    font-weight: 600;
+  
+  }
+  
+  
+  th, td{
+  
+    border-radius: 0.4rem;
+    padding: 0.4rem 0.8rem 0.4rem 0.8rem;
+    border: 1px solid black;
+    font-size: 19px;
+  
+  }
+  
+  th{
+  
+  width: max-content;
+  
+  }
+  
+  td{
+  
+    margin:10px
+    
+  
+  }
+
+p{
+
+  display: none;
+
+}
